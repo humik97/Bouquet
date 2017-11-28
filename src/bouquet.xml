@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bouquets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="bouquet.xsd">
+    <bouquet id="1">
+        <name>blue night</name>
+        <flower>
+            <flname>rose</flname>
+            <length>4</length>
+            <price>3</price>
+            <date>10.02.2017</date>
+        </flower>
+        <flower>
+            <flname>tulip</flname>
+            <length>5</length>
+            <price>4</price>
+            <date>11.02.2017</date>
+        </flower>
+        <flower>
+            <flname>chamomile</flname>
+            <length>6</length>
+            <price>4</price>
+            <date>12.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>tape</acname>
+            <acprice>5</acprice>
+        </accessory>
+    </bouquet>
+
+    <bouquet id="2">
+        <name>fire</name>
+        <flower>
+            <flname>rose</flname>
+            <length>8</length>
+            <price>4</price>
+            <date>13.02.2017</date>
+        </flower>
+    </bouquet>
+    <bouquet id="3">
+        <name>love</name>
+        <flower>
+            <flname>chamomile</flname>
+            <length>5</length>
+            <price>3</price>
+            <date>12.02.2017</date>
+        </flower>
+    </bouquet>
+    <bouquet id="4">
+        <name>alone</name>
+        <flower>
+            <flname>tulip</flname>
+            <length>7</length>
+            <price>5</price>
+            <date>12.02.2017</date>
+        </flower>
+    </bouquet>
+    <bouquet id="5">
+        <name>red flame</name>
+        <flower>
+            <flname>rose</flname>
+            <length>5</length>
+            <price>3</price>
+            <date>13.02.2017</date>
+        </flower>
+        <flower>
+            <flname>rose</flname>
+            <length>5</length>
+            <price>3</price>
+            <date>13.02.2017</date>
+        </flower>
+
+        <accessory>
+            <acname>paper</acname>
+            <acprice>1</acprice>
+        </accessory>
+    </bouquet>
+
+    <bouquet id="6">
+        <name>sky</name>
+        <flower>
+            <flname>tulip</flname>
+            <length>6</length>
+            <price>2</price>
+            <date>9.02.2017</date>
+        </flower>
+        <flower>
+            <flname>tulip</flname>
+            <length>5</length>
+            <price>2</price>
+            <date>9.02.2017</date>
+        </flower>
+        <flower>
+            <flname>tulip</flname>
+            <length>6</length>
+            <price>2</price>
+            <date>10.02.2017</date>
+        </flower>
+    </bouquet>
+
+    <bouquet id="7">
+        <name>red sea</name>
+        <flower>
+            <flname>rose</flname>
+            <length>8</length>
+            <price>5</price>
+            <date>13.02.2017</date>
+        </flower>
+        <flower>
+            <flname>rose</flname>
+            <length>9</length>
+            <price>5</price>
+            <date>13.02.2017</date>
+        </flower>
+
+        <flower>
+            <flname>rose</flname>
+            <length>9</length>
+            <price>5</price>
+            <date>13.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>paper</acname>
+            <acprice>1</acprice>
+        </accessory>
+    </bouquet>
+
+    <bouquet id="8">
+        <name>world</name>
+        <flower>
+            <flname>rose</flname>
+            <length>9</length>
+            <price>6</price>
+            <date>10.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>tape</acname>
+            <acprice>5</acprice>
+        </accessory>
+        <accessory>
+            <acname>paper</acname>
+            <acprice>1</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="9">
+        <name>feelings</name>
+        <flower>
+            <flname>chamomile</flname>
+            <length>5</length>
+            <price>3</price>
+            <date>10.02.2017</date>
+        </flower>
+        <flower>
+            <flname>tulip</flname>
+            <length>5</length>
+            <price>4</price>
+            <date>08.02.2017</date>
+        </flower>
+        <flower>
+            <flname>chamomile</flname>
+            <length>5</length>
+            <price>3</price>
+            <date>12.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>tape</acname>
+            <acprice>5</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="10">
+        <name>summer</name>
+        <flower>
+            <flname>rose</flname>
+            <length>7</length>
+            <price>4</price>
+            <date>13.02.2017</date>
+        </flower>
+        <flower>
+            <flname>tulip</flname>
+            <length>4</length>
+            <price>4</price>
+            <date>11.02.2017</date>
+        </flower>
+        <flower>
+            <flname>chamomile</flname>
+            <length>6</length>
+            <price>4</price>
+            <date>12.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>paper</acname>
+            <acprice>1</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="11">
+        <name>snowball</name>
+        <flower>
+            <flname>chamomile</flname>
+            <length>4</length>
+            <price>4</price>
+            <date>13.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>tape</acname>
+            <acprice>5</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="12">
+        <name>happy</name>
+        <flower>
+            <flname>tulip</flname>
+            <length>4</length>
+            <price>5</price>
+            <date>13.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>paper</acname>
+            <acprice>1</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="13">
+        <name>star</name>
+        <flower>
+            <flname>chamomile</flname>
+            <length>5</length>
+            <price>4</price>
+            <date>12.02.2017</date>
+        </flower>
+        <flower>
+            <flname>chamomile</flname>
+            <length>5</length>
+            <price>4</price>
+            <date>12.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>paper</acname>
+            <acprice>5</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="14">
+        <name>redmoon</name>
+        <flower>
+            <flname>rose</flname>
+            <length>8</length>
+            <price>9</price>
+            <date>13.02.2017</date>
+        </flower>
+        <accessory>
+            <acname>tape</acname>
+            <acprice>5</acprice>
+        </accessory>
+    </bouquet>
+    <bouquet id="15">
+        <name>born</name>
+        <flower>
+            <flname>chamomile</flname>
+            <length>4</length>
+            <price>2</price>
+            <date>10.02.2017</date>
+        </flower>
+    </bouquet>
+</bouquets>
